@@ -14,6 +14,8 @@ Ananthan is also a passionate educator and science communicator. Following his U
 Featured Talk
 ======
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+```html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+```
 
 [Click here to download the PDF presentation slides](files/Ambikairajah_research-summary-presentation_2024.pdf)
