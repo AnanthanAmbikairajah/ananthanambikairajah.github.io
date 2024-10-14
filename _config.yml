@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Ananthan Ambikairajah"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ananthan Ambikairajah"
 description              : &description "Neuroscientist. Educator. Science Communicator"
