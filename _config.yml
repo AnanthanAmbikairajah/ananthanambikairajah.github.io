@@ -37,13 +37,13 @@ author:
   orcid            : "https://orcid.org/0000-0002-5808-8020"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://x.com/a_ambikairajah
+  researchgate     : "https://www.researchgate.net/profile/Ananthan-Ambikairajah"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/AnanthanAmbikairajah"
+  github           : AnanthanAmbikairajah
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,15 +57,15 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/ananthan-ambikairajah-3226422b6/
+  linkedin         : ananthan-ambikairajah-3226422b6
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : https://soundcloud.com/user-838401350?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+  soundcloud       : user-838401350
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : https://x.com/a_ambikairajah
+  twitter          : a_ambikairajah
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
