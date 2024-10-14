@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+youtubeId: jgGK-v7X9rk
 ---
 
 Ananthan is a passionate neuroscientist, educator and science communicator. He is a Lecturer at the University of Canberra (UC) and a core member of the Centre for Ageing Research and Translation (CARAT) at UC. Ananthan completed his PhD in Neuroscience at the Australian National University in 2022. Ananthan received the Outstanding New Researcher Highly Commended Award in 2024 from the ACT Minister for Health. His research interests include genetic, environmental and lifestyle factors which influence ageing, brain health and disease, with a particular focus on sex-specific determinants and cardiometabolic factors. His recent research focuses on the potential for risk reduction in dementia. Ananthan has expertise in big data analyses, statistics, git, Linux and R. In 2023, he developed and continues to lead the Generative Artificial Intelligence (GenAI) Community of Practice for the Faculty of Health at UC, which aims to up-skill staff on their understanding, use and adoption of GenAI to enhance their learning, teaching, research and professional practice. 
@@ -14,6 +15,6 @@ Ananthan is also a passionate educator and science communicator. Following his U
 Featured Talk
 ======
 
-{% include video id="v=jgGK-v7X9rk" provider="youtube" %}
+{% include frontier_talk_2024.html id=page.youtubeId %}
 
 [Click here to download the PDF presentation slides](files/Ambikairajah_research-summary-presentation_2024.pdf)
