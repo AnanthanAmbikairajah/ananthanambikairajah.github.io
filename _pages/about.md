@@ -16,4 +16,4 @@ Featured Talk
 
 {% include frontier_talk_2024.html id=page.youtubeId %}
 
-[Click here to download the PDF presentation slides](files/Ambikairajah_research-summary-presentation_2024.pdf)
+[Download Slides](files/Ambikairajah_research-summary-presentation_2024.pdf)
