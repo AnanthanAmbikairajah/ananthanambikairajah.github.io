@@ -1,5 +1,5 @@
 ---
-title: "A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum."
+#title: "A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum."
 collection: publications
 category: manuscripts
 permalink: /publication/2014-02-18_Ambikairajah_et_al_2014_A_visual_MRI_atrophy_Amyotrophic_Lateral_Sclerosis_and_Frontotemporal_Degeneration
