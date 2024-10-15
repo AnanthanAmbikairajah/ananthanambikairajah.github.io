@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum."
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2014-02-18_Ambikairajah_et_al_2014_A_visual_MRI_atrophy_Amyotrophic_Lateral_Sclerosis_and_Frontotemporal_Degeneration
+#excerpt:  
+date: 2014-02-18
+venue: 'Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration'
+paperurl: 'http://ananthanambikairajah.github.io/files/Ambikairajah_et_al_2014_A_visual_MRI_atrophy_Amyotrophic_Lateral_Sclerosis_and_Frontotemporal_Degeneration.pdf'
+citation: '**Ambikairajah, A.,** Devenney, E., Flanagan, E., Yew, B., Mioshi, E., Kiernan, M. C., Hodges, J. R., & Hornberger, M. (2014). &quot;A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum..&quot; <i>Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration</i>. *15*(3-4), 226-234.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<object data="../files/Ambikairajah_et_al_2014_A_visual_MRI_atrophy_Amyotrophic_Lateral_Sclerosis_and_Frontotemporal_Degeneration.pdf" width="1000" height="1000" type='application/pdf'></object>
