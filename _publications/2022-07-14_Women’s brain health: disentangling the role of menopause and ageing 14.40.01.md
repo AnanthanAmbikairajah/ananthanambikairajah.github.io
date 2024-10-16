@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: Books
+category: books
 date: 2022-07-14
 paperurl: 'http://ananthanambikairajah.github.io/files/Thesis Material - Ananthan_Ambikairajah_PhD_Thesis.pdf'
 ---
