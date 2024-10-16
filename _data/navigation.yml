@@ -7,15 +7,18 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "CV"
-    url: /cv/
 
   #- title: "Talks"
   #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Media Outreach"
+    url: /media-outreach/
     
   #- title: "Portfolio"
   #  url: /portfolio/
