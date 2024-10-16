@@ -5,4 +5,4 @@ date: 2019-11-01
 paperurl: 'http://ananthanambikairajah.github.io/files/Ambikairajah_et_al_2019_Lipid_profile_Menopause.pdf'
 ---
 
-<b>Ambikairajah, A.</b>, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. <i>Obesity</i>, <i>28</i>(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)
+<b>Ambikairajah, A.</b>, Walsh, E., & Cherbuin, N. (2019). Lipid profile differences during menopause: a review with meta-analysis. <i>Menopause</i>, <i>26</i>(11), 1327-1333. [doi:10.1097/GME.0000000000001403](https://doi.org/10.1097/GME.0000000000001403)
