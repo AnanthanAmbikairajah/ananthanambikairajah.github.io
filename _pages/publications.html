@@ -17,16 +17,13 @@ author_profile: true
   {% for category_key in site.publication_category %}
     {% assign category = site.publication_category[category_key] %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category_key %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category.title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+    {% assign category_posts = site.publications | where: "category", category_key %}
+    {% if category_posts.size > 0 %}
+      <h2>{{ category.title }}</h2><hr />
+      {% for post in category_posts reversed %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
