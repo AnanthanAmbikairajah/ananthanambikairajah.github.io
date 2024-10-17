@@ -1,7 +1,8 @@
 ---
 title: "FoH GenAI Workshop"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2024-FoH-GenAI-Workshop
 ---
 
+# Faculty of Health Generative Artificial Intelligence Workshop
+- [Lecture Slides]()
