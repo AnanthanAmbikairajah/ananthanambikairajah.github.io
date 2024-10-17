@@ -11,7 +11,7 @@ Ananthan is a passionate neuroscientist, educator and science communicator. He i
 
 Ananthan is also a passionate educator and science communicator. Following his Undergraduate degree in Neuroscience at UNSW, he completed a Master's in Teaching (Secondary) and is a Higher Education Academy Fellow. In 2024, Ananthan received the Faculty of Health Student Nominated Award for Excellence in Teaching at UC. Ananthan regularly engages with media and his research has been covered by ABC News, Nine News, Sydney Morning Herald, the Australian Financial Review, The Australian and ABC Radio. He also hosts a podcast called Midnight Conversations, which aims to communicate research and the principles of scientific thinking to the public in an engaging and accessible way. His podcast is available on Apple Podcasts, Spotify and Soundcloud. 
 
-Featured Talk
+Featured Research Presentation
 ======
 
 {% include frontier_talk_2024.html id=page.youtubeId %}
