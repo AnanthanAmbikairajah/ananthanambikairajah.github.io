@@ -5,4 +5,4 @@ permalink: /teaching/2024-FoH-GenAI-Workshop
 ---
 
 ## Faculty of Health Generative Artificial Intelligence Workshop
-- [Lecture Slides]()
+- [Lecture Slides](files/Ambikairajah_FoH_GenAI_Workshop_2024.pdf)
