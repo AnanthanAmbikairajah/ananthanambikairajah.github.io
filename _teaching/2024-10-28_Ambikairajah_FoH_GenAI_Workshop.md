@@ -4,12 +4,12 @@ collection: teaching
 permalink: /teaching/2024-FoH-GenAI-Workshop
 ---
 
-# Generative Artificial Intelligence (GenAI) Workshop 
+## Generative Artificial Intelligence (GenAI) Workshop 
 
-**Lecture Slides**
+### Lecture Slides
 - [Download the Workshop Slides](GenAI/Ambikairajah_FoH_GenAI_Workshop_2024.pdf)
 
-**Video Lectures**
+### Video Lectures
 - [**Lecture 1: GenAI Part 1**]
   - Watch on [YouTube](https://youtu.be/bh_BvZD8mrE)
 
@@ -22,6 +22,6 @@ permalink: /teaching/2024-FoH-GenAI-Workshop
 - [**Lecture 4: Prompt Engineering and GenAI testing assessment/work**]
   - Watch on [YouTube](https://youtu.be/mJklI-DgPSE)
 
-**Workshop Feedback**
+### Workshop Feedback
 
 I would really appreciate it if you could take 1-2 minutes to [complete this feedback form](https://forms.office.com/r/kmEq54qWtG) and share your experiences with the workshop. The form is accessible to everyone. 
