@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/2024-FoH-GenAI-Workshop
 ---
 
-# 2024
-
 # Generative Artificial Intelligence (GenAI) Workshop 
 
 # Lecture Slides
