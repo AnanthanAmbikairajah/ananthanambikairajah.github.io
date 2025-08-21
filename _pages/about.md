@@ -11,9 +11,9 @@ Ananthan is a passionate neuroscientist, educator and science communicator. He i
 Featured Research Presentation
 ======
 
-{% include ANU_talk_2025.html id="HXFvOH5STi0" %}
+{% include frontier_talk_2025.html id="jgGK-v7X9rk" %}
 
-[Download Slides](files/Ambikairajah_research-summary-presentation_2025.pdf)
+[Download Slides](files/Ambikairajah_research-summary-presentation_2024.pdf)
 
 Featured Science Communication Presentation
 ======
