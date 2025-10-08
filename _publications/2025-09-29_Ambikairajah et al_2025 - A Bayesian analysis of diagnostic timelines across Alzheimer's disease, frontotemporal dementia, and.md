@@ -1,7 +1,7 @@
 ---
 collection: publications
 category: manuscripts
-date: 2025-09-20
+date: 2025-10-01
 paperurl: 'http://ananthanambikairajah.github.io/files/Ambikairajah et al_2025_A Bayesian analysis of diagnostic timelines across Alzheimer's disease, frontotemporal dementia.pdf'
 ---
 
