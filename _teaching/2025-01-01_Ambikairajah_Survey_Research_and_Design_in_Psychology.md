@@ -23,4 +23,4 @@ This unit introduces students to the principles of survey-based research design 
 |  | **10** | Power and Effect Sizes | [Lecture 9 – Video 1](#) <br>[Lecture 9 – Video 2](#) <br>[Lecture 9 – Video 3](#) <br>[Lecture 9 – Video 4](#) <br>[Lecture 9 – Slides](#) | — |
 | **Module 5: Summary and Public Data Analysis** | **11** | Summary and Conclusions | [Lecture 10 – Video 1](#) <br>[Lecture 10 – Video 2](#) <br>[Lecture 10 – Slides](#) | [Tutorial 5 – Video 1](#) <br>[Tutorial 5 – Video 2](#) <br>[Tutorial 5 – Slides](#) <br>[Tutorial 5 – Data File 1](#) |
 |  | **12** | Study Break | — | — |
-**Licensing** Survey Research and Design in Psychology (7126) © 2024 by Dr Ananthan Ambikairajah, University of Canberra is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+**Licensing** Survey Research and Design in Psychology (7126) © 2024 by Dr Ananthan Ambikairajah, University of Canberra is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
