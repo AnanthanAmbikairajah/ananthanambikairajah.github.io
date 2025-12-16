@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : a-ambikairajah.bsky.social
+  bluesky          : #a-ambikairajah.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,10 +67,10 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : a_ambikairajah
+  twitter          : #a_ambikairajah
   vine             : # Username
   weibo            : # Username
-  wikipedia        : Dr_Ananthan_Ambikairajah
+  wikipedia        : #Dr_Ananthan_Ambikairajah
   xing             : # Username
   youtube          : ananthanambikairajah
   zhihu            : # Username
