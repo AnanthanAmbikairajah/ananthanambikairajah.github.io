@@ -8,8 +8,8 @@ permalink: /teaching/2024-SRDP
 
 This unit introduces students to the principles of survey-based research design and quantitative data analysis. It is organised into five modules that progressively build skills in designing surveys, analysing data, and interpreting results.
 
-Week | Lecture Topic | Lecture Videos | Tutorial |
-------|----------------|----------------|-----------|
+| Week | Lecture Topic | Lecture Videos | Tutorial |
+|------|----------------|----------------|-----------|
 | **1** | Survey Research | [Lecture 1 – Video 1](https://youtu.be/nMZrQJAmXSg?si=UU8mQkD0cKLLMkEM) | - |
 | **2** | Survey Design | [Lecture 2 – Video 1](https://youtu.be/7I5cboMSFyM?si=Sfgc_TcUf6OvGOMF)<br>[Lecture 2 – Video 2](https://youtu.be/iEaQwQQ_4ZQ?si=kQWnSHVPRWXwFuHA)<br>[Lecture 2 – Video 3](https://youtu.be/-M3ki2Yt81k?si=JUPH122F6-WqOnfo)<br>[Lecture 2 – Video 4](#https://youtu.be/MhWABSYnFHA?si=hlj4yXtukRm1lj_g)<br>[Lecture 2 – Video 5](https://youtu.be/wtTyfpu7bzg?si=z3dTcCfUNcanHOOr) | [Tutorial 1 – Intro to Jamovi](https://youtu.be/wqCiMdzwvsQ?si=LQQpCi4rAa7APfts) |
 | **3** | Descriptives and Graphing | [Lecture 3 – Video 1](https://youtu.be/h4gPuguLDf4?si=mIpeEjC9slSUGuLT)<br>[Lecture 3 – Video 2](https://youtu.be/9vW1OQBzf9I?si=w9PxsW31fH7rB74N)<br>[Lecture 3 – Video 3](https://youtu.be/dh-K2DidQ_M?si=5UtMuXLA6pZguLQc)<br>[Lecture 3 – Video 4](https://youtu.be/Vl3QCSMojHE?si=6plW6WkjCqW1c3uI) | - |
@@ -21,5 +21,5 @@ Week | Lecture Topic | Lecture Videos | Tutorial |
 | **9** | Class Free Period | Class Free Period | Class Free Period |
 | **10** | Power and Effect Sizes | [Lecture 9 – Video 1](https://youtu.be/4RCF7dS1pQw?si=QMOK8kNujGRgQZ52)<br>[Lecture 9 – Video 2](https://youtu.be/CUE6rU09u7w?si=wL0yG3sjNF2OvlJx) | |
 | **11** | Summary and Conclusions | [Lecture 10 – Video 1](https://youtu.be/g3a5VqHzhOQ?si=2BY8qrXALCjXDZjz)<br>[Lecture 10 – Video 2](https://youtu.be/XHpRiL0bnkk?si=90WUwJoIZFbEk8NM) | [Tutorial 5 – Public Data Analysis](#) |
-|  | **12** | — | — | [Tutorial 5 – Public Data Analysis (online)](#) |
-|  | **13** | — | — | — |
+| **12** | Statistics in Action | [Extension Lecture - ](https://youtu.be/jgGK-v7X9rk?si=vOMpq-fXwI37c65G) | - |
+| **13** | — | — | — |
