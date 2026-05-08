@@ -6,8 +6,6 @@ permalink: /teaching/2026-SRDP
 
 # Survey Research and Design in Psychology (7126)
 
-This unit introduces students to the principles of survey-based research design and quantitative data analysis. It progressively build skills in designing surveys, analysing data, and interpreting results.
-
 | Lecture Topic and Slides| Lecture Videos | Tutorial Topic and Slides | Tutorial Videos | Tutorial Data Files |
 |----------------|----------------|----------------|----------------|-------------------|---------------------|
 | [Survey Research](SRDP/Survey_Research_and_Design_in_Psychology_Lecture_1.pdf) | [Lecture 1 – Video 1](https://youtu.be/nMZrQJAmXSg?si=UU8mQkD0cKLLMkEM) | 
