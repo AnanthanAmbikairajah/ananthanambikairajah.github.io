@@ -151,7 +151,7 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : UA-140446754-1
+    tracking_id          : G-3WL7X31TBS # UA-140446754-1 (old one)
 
 
 # Reading Files
