@@ -16,7 +16,7 @@ Beyond academia, Ananthan is an avid runner who has raised over $1,000 for Demen
 Dementia and Brain Health
 ======
 
-{% include UC Explains 2026 Dementia.html id="Y4esI7ZCVeY" %}
+{% include UCExplains_2026_Dementia.html id="Y4esI7ZCVeY" %}
 
 Featured Research Presentation
 ======
