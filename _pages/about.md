@@ -13,6 +13,11 @@ Elected to the University Council in 2026, Ananthan represents the academic voic
 Ananthan hosts Midnight Conversations, a podcast that communicates research and the principles of scientific thinking to the public in an engaging and accessible way. The podcast is available on Apple Podcasts, Spotify and SoundCloud.
 Beyond academia, Ananthan is an avid runner who has raised over $1,000 for Dementia Australia through events including the Canberra Times and Sydney Marathons. He also enjoys rock climbing, playing chess and tennis.
 
+Dementia and Brain Health
+======
+
+{% include UC Explains 2026 Dementia.html id="Y4esI7ZCVeY" %}
+
 Featured Research Presentation
 ======
 
