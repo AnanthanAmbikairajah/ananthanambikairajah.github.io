@@ -18,7 +18,8 @@ Dementia and Brain Health
 
 {% include UCExplains_2026_Dementia.html id="Y4esI7ZCVeY" %}
 
-======
+<div style="margin-bottom: 2em;"></div>
+
 Featured Research Presentation
 ======
 
